@@ -22,7 +22,7 @@ from __future__ import print_function
 import tensorflow as tf
 
 # from tensorflow.python.keras.models import Model
-from keras.models import Model
+from tensorflow.keras.models import Model
 from keras import layers
 from keras.layers import Input
 from keras.layers import Lambda
