@@ -21,7 +21,8 @@ from __future__ import print_function
 
 import tensorflow as tf
 
-from tensorflow.python.keras.models import Model
+# from tensorflow.python.keras.models import Model
+from keras.models import Model
 from tensorflow.python.keras import layers
 from tensorflow.python.keras.layers import Input
 from tensorflow.python.keras.layers import Lambda
